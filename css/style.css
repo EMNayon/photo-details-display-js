@@ -1,0 +1,19 @@
+#image {
+    width: 650px;
+    height: 70px;
+    border: 5px solid pink;
+    background-color: black;
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 100%;
+    font-size: 100%;
+    line-height: 60px;
+    text-align: center;
+    margin: 0 auto;
+}
+img {
+    width: 300px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 17px;
+}
